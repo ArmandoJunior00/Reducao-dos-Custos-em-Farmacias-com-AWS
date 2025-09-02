@@ -39,4 +39,4 @@ A implementação de ferramentas na empresa *Abstergo Pharmaceutical Industries 
 <br>
 
 #### Assinatura do Responsável pelo Projeto: 
-@venelouis
+@ArmandoJunior00
